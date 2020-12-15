@@ -1,0 +1,14 @@
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.csprojAssemblyReference.cache
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.Form1.resources
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.Form2.resources
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.Properties.Resources.resources
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.csproj.GenerateResource.cache
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.csproj.CoreCompileInputs.cache
+C:\Users\maari\source\repos\ProyectoAxel\bin\Debug\ProyectoAxel.exe.config
+C:\Users\maari\source\repos\ProyectoAxel\bin\Debug\ProyectoAxel.exe
+C:\Users\maari\source\repos\ProyectoAxel\bin\Debug\ProyectoAxel.pdb
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.exe
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.pdb
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.Form3.resources
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.Form4.resources
+C:\Users\maari\source\repos\ProyectoAxel\obj\Debug\ProyectoAxel.Form5.resources
