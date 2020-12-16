@@ -18,54 +18,7 @@ namespace ProyectoAxel
             InitializeComponent();
         }
         double num1;
-        
-         private void MiMetodo_Clic(object sender, EventArgs e )
-        {
-            double resultado;
-            string textoboton=((Button)sender).Text;
-            switch (textoboton)
-            {
-                case "Bugs Bunny":
-                    if (lblPuntos.Text == "")
-                    {
-                        return;
-                    }
-                    num1 = -100;
-                    resultado = num1;
-                    lblPuntos.Text = resultado + "";
-                    MessageBox.Show("INCORRECTO");
-                    Form3 f3= new Form3();
-                    f3.Show();
-                    break;
-                case "Drake Parker":
-                    if (lblPuntos.Text == "")
-                    {
-                        return;
-                    }
-                    num1 = -100;
-                    resultado = num1;
-                    lblPuntos.Text = resultado + "";
-                    MessageBox.Show("INCORRECTO");
-                    Form3 f4 = new Form3();
-                    f4.Show();
-                    break;
-                case "Bart Simpson":
-                    if (lblPuntos.Text == "")
-                    {
-                        return;
-                    }
-                    num1 = 100;
-                    resultado = num1;
-                    lblPuntos.Text = resultado + "";
-                    MessageBox.Show("CORRECTO");
-                    Form3 f5 = new Form3();
-                    f5.Show();
-                    break;
-                default:
-                    lblPuntos.Text += textoboton;
-                    break;
-            }
-        }
+       
         private void btnBugs_Click(object sender, EventArgs e)
         {
             Preguntas p = new Preguntas();
